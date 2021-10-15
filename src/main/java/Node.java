@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- *@author SAKHUMZI.NONTLANGA
- */
+
 public class Node {
     int value;
     Node left;

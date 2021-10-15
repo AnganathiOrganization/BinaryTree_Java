@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author SAKHUMZI.NONTLANGA
- */
+
 public class NewMain {
 
     public static void main(String[] args) {
@@ -35,7 +32,7 @@ public class NewMain {
         n10.left = n6;
         n10.right =n16;
         
-        n5.left = n6;
+        n5.left = n11;
         
         n16.left = n15;
         n16.right =n2;
